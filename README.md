@@ -36,13 +36,13 @@ Writing articles not only improves your writing skills but also contributes to y
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Linters
+- [Prettier](https://prettier.io/).
+- GitHub Action
 
-## Live Demo (if available)
+## Live Publication
 
-[Live Demo Link](https://livedemo.com)
+[Live Publication Link](https://livepublication.com)
 
 ## Getting Started
 
@@ -51,31 +51,42 @@ Writing articles not only improves your writing skills but also contributes to y
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+```bash
+git clone git@github.com:Yinkusadel/yinkusadels-articles-template.git
+```
 
-### Setup
-
-### Install
+- Install Dependencies
 
 ### Usage
 
-### Run tests
+```bash
+yarn install
+```
 
-### Deployment
+- You can check against Prettier:
 
-## Authors
+```bash
+yarn format:check
+```
+
+- and to have it fix (to the best of its ability) any format issues, run:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
+```bash
+yarn format
+```
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
+👤 **Author**
+
+- Github: [@yinkusadel](https://github.com/yinkusadel)
+- Twitter: [@HashiraAdel](https://twitter.com/HashiraAdel)
+- Linkedin: [@adeleyeolayinka](https://www.linkedin.com/in/adeleye-olayinka/)
+- FreeCodeCamp: [@yinkusadel](https://www.freecodecamp.org/Yinkusadel)
 
 ## 🤝 Contributing
 
@@ -89,9 +100,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- [FCC](https://www.freecodecamp.org/learn/)
+- [HackerRank](https://www.hackerrank.com/)
+- [Coursera](https://www.coursera.org/)
 
 ## 📝 License
 

@@ -92,6 +92,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+- [google style guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [FCC](https://www.freecodecamp.org/learn/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Coursera](https://www.coursera.org/)

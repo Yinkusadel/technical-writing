@@ -4,7 +4,7 @@
 
 _**This document defines formatting and style rules. It aims at improving collaboration, code quality, and enabling supporting infrastructure. It applies to raw working files that use HTML and CSS. Tools are free to obfuscate, minify, and compile as long as the general code quality is maintained.**_
 
-# 2. CSS Formatting Rules
+## 2. CSS Formatting Rules
 
 - ## Protocol
   _**Always use HTTPS (https:) for images and other media files, style sheets, and scripts, unless the respective files are not available over HTTPS.**_

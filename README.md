@@ -32,8 +32,6 @@ Writing articles not only improves your writing skills but also contributes to y
 
 # Articles (Technical writing)
 
-> Description the project.
-
 ## Built With
 
 - Linters
@@ -52,7 +50,7 @@ Writing articles not only improves your writing skills but also contributes to y
 To get a local copy up and running follow these simple example steps.
 
 ```bash
-git clone git@github.com:Yinkusadel/yinkusadels-articles-template.git
+git clone git@github.com:Yinkusadel/technical-writing.git
 ```
 
 - Install Dependencies
@@ -71,15 +69,9 @@ yarn format:check
 
 - and to have it fix (to the best of its ability) any format issues, run:
 
-👤 **Author1**
-
 ```bash
 yarn format
 ```
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 👤 **Author**
 
@@ -100,6 +92,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+- [google style guide](https://google.github.io/styleguide/htmlcssguide.html)
 - [FCC](https://www.freecodecamp.org/learn/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Coursera](https://www.coursera.org/)

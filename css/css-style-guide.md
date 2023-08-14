@@ -170,4 +170,7 @@ h3 {
 ```
 
 - ## Comments (optional)
+
   _**Use comments to explain code: What does it cover, what purpose does it serve, why is respective solution used or preferred?**_
+
+### Credit and Acknowledgement to [google style guide](https://google.github.io/styleguide/htmlcssguide.html)
